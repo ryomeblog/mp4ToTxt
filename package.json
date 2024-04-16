@@ -1,0 +1,16 @@
+{
+  "name": "mp4totxt",
+  "version": "1.0.0",
+  "description": "mp4ファイルの音声から文字起こしを行います",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2",
+    "vosk": "^0.3.39"
+  }
+}

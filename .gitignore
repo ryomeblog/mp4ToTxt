@@ -128,3 +128,9 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# pj
+out
+video
+vosk-model-ja-0.22
+vosk-model-small-ja-0.22
